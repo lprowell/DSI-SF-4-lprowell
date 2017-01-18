@@ -1,0 +1,317 @@
+Content-type: text/plain
+
+#
+# File created on 2016-12-13 13:28:30 EST
+# Refresh Date: 2014-12
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - http://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - State Total
+#  County Codes(s)  - 
+#  County Name(s)   - 
+#  Category Code(s) - ALL
+#  Category Name(s) - --ALL Categories--
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#  Public Supply population served by groundwater, in thousands 
+#  Public Supply population served by surface water, in thousands 
+#  Public Supply total population served, in thousands 
+#  Public Supply self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Public Supply self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Public Supply total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Public Supply self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Public Supply self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Public Supply total self-supplied withdrawals, surface water, in Mgal/d 
+#  Public Supply total self-supplied withdrawals, fresh, in Mgal/d 
+#  Public Supply total self-supplied withdrawals, saline, in Mgal/d 
+#  Public Supply total self-supplied withdrawals, total, in Mgal/d 
+#  Public Supply deliveries to domestic, in Mgal/d 
+#  Public Supply deliveries to commercial, in Mgal/d 
+#  Public Supply deliveries to industrial, in Mgal/d 
+#  Public Supply deliveries to thermoelectric, in Mgal/d 
+#  Public Supply total deliveries, in Mgal/d 
+#  Public Supply public use and losses, in Mgal/d 
+#  Public Supply per capita use, in gallons/person/day 
+#  Public Supply reclaimed wastewater, in Mgal/d 
+#  Public Supply number of facilities 
+#  Domestic self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Domestic self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Domestic total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Domestic self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Domestic self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Domestic total self-supplied withdrawals, surface water, in Mgal/d 
+#  Domestic total self-supplied withdrawals, fresh, in Mgal/d 
+#  Domestic self-supplied population, in thousands 
+#  Domestic deliveries from public supply, in Mgal/d 
+#  Domestic total self-supplied withdrawals, saline, in Mgal/d 
+#  Domestic per capita use, public-supplied, in gallons/person/day 
+#  Domestic total self-supplied withdrawals, in Mgal/d 
+#  Domestic total self-supplied withdrawals plus deliveries, in Mgal/d 
+#  Domestic consumptive use, fresh, in Mgal/d 
+#  Domestic consumptive use, saline, in Mgal/d 
+#  Domestic total consumptive use, in Mgal/d 
+#  Domestic per capita use, self-supplied, in gallons/person/day 
+#  Commercial self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Commercial self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Commercial total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Commercial self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Commercial self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Commercial total self-supplied withdrawals, surface water, in Mgal/d 
+#  Commercial total self-supplied withdrawals, fresh, in Mgal/d 
+#  Commercial total self-supplied withdrawals, saline, in Mgal/d 
+#  Commercial total self-supplied withdrawals, in Mgal/d 
+#  Commercial deliveries from public supply, in Mgal/d 
+#  Commercial total self-supplied withdrawals plus deliveries, in Mgal/d 
+#  Commercial consumptive use, fresh, in Mgal/d 
+#  Commercial consumptive use, saline, in Mgal/d 
+#  Commercial total consumptive use, in Mgal/d 
+#  Commercial reclaimed wastewater, in Mgal/d 
+#  Industrial self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Industrial self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Industrial total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Industrial self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Industrial self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Industrial total self-supplied withdrawals, surface water, in Mgal/d 
+#  Industrial total self-supplied withdrawals, fresh, in Mgal/d 
+#  Industrial total self-supplied withdrawals, saline, in Mgal/d 
+#  Industrial total self-supplied withdrawals, in Mgal/d 
+#  Industrial deliveries from public supply, in Mgal/d 
+#  Industrial total self-supplied withdrawals plus deliveries, in Mgal/d 
+#  Industrial consumptive use, fresh, in Mgal/d 
+#  Industrial consumptive use, saline, in Mgal/d 
+#  Industrial total consumptive use, in Mgal/d 
+#  Industrial reclaimed wastewater, in Mgal/d 
+#  Industrial number of facilities 
+#  Total Thermoelectric Power self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Total Thermoelectric Power self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Total Thermoelectric Power total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Total Thermoelectric Power self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Total Thermoelectric Power self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Total Thermoelectric Power total self-supplied withdrawals, surface water, in Mgal/d 
+#  Total Thermoelectric Power total self-supplied withdrawals, fresh, in Mgal/d 
+#  Total Thermoelectric Power total self-supplied withdrawals, saline, in Mgal/d 
+#  Total Thermoelectric Power total self-supplied withdrawals, total, in Mgal/d 
+#  Total Thermoelectric Power total self-supplied withdrawals plus deliveries, in Mgal/d 
+#  Total Thermoelectric Power consumptive use, fresh, in Mgal/d 
+#  Total Thermoelectric Power consumptive use, saline, in Mgal/d 
+#  Total Thermoelectric Power total consumptive use, in Mgal/d 
+#  Total Thermoelectric Power power generated, in gigawatt-hours 
+#  Total Thermoelectric Power reclaimed wastewater, in Mgal/d 
+#  Total Thermoelectric Power number of facilities 
+#  Fossil-fuel Thermoelectric Power self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power total self-supplied withdrawals, surface water, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power total self-supplied withdrawals, fresh, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power total self-supplied withdrawals, saline, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power total self-supplied withdrawals, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power deliveries from public supply, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power total self-supplied withdrawals plus deliveries, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power consumptive use, fresh, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power consumptive use, saline, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power total consumptive use, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power power generation, in gigawatt-hours 
+#  Fossil-fuel Thermoelectric Power reclaimed wastewater, in Mgal/d 
+#  Fossil-fuel Thermoelectric Power number of facilities 
+#  Geothermal Thermoelectric Power self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Geothermal Thermoelectric Power self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Geothermal Thermoelectric Power total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Geothermal Thermoelectric Power self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Geothermal Thermoelectric Power self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Geothermal Thermoelectric Power total self-supplied withdrawals, surface water, in Mgal/d 
+#  Geothermal Thermoelectric Power total self-supplied withdrawals, fresh, in Mgal/d 
+#  Geothermal Thermoelectric Power total self-supplied withdrawals, saline, in Mgal/d 
+#  Geothermal Thermoelectric Power total self-supplied withdrawals, in Mgal/d 
+#  Geothermal Thermoelectric Power deliveries from public supply, in Mgal/d 
+#  Geothermal Thermoelectric Power total self-supplied withdrawals plus deliveries, in Mgal/d 
+#  Geothermal Thermoelectric Power consumptive use, fresh, in Mgal/d 
+#  Geothermal Thermoelectric Power consumptive use, saline, in Mgal/d 
+#  Geothermal Thermoelectric Power total consumptive use, in Mgal/d 
+#  Geothermal Thermoelectric Power power generation, in gigawatt-hours 
+#  Geothermal Thermoelectric Power reclaimed wastewater, in Mgal/d 
+#  Geothermal Thermoelectric Power number of facilities 
+#  Nuclear Thermoelectric Power self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Nuclear Thermoelectric Power self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Nuclear Thermoelectric Power total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Nuclear Thermoelectric Power self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Nuclear Thermoelectric Power self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Nuclear Thermoelectric Power total self-supplied withdrawals, surface water, in Mgal/d 
+#  Nuclear Thermoelectric Power total self-supplied withdrawals, fresh, in Mgal/d 
+#  Nuclear Thermoelectric Power total self-supplied withdrawals, saline, in Mgal/d 
+#  Nuclear Thermoelectric Power total self-supplied withdrawals, in Mgal/d 
+#  Nuclear Thermoelectric Power deliveries from public supply, in Mgal/d 
+#  Nuclear Thermoelectric Power total self-supplied withdrawals plus deliveries, in Mgal/d 
+#  Nuclear Thermoelectric Power consumptive use, fresh, in Mgal/d 
+#  Nuclear Thermoelectric Power consumptive use, saline, in Mgal/d 
+#  Nuclear Thermoelectric Power total consumptive use, in Mgal/d 
+#  Nuclear Thermoelectric Power power generation, in gigawatt-hours 
+#  Nuclear Thermoelectric Power reclaimed wastewater, in Mgal/d 
+#  Nuclear Thermoelectric Power number of facilities 
+#  Thermoelectric Power (Once-through cooling) self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) self-supplied surface-water withdrawals, fresh, in Mgal/ 
+#  Thermoelectric Power (Once-through cooling) self-supplied surface-water withdrawals, saline, in Mgal 
+#  Thermoelectric Power (Once-through cooling) total self-supplied withdrawals, surface water, in Mgal/ 
+#  Thermoelectric Power (Once-through cooling) total self-supplied withdrawals, fresh, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) total self-supplied withdrawals, saline, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) total self-supplied withdrawals, total, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) deliveries from public supply, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) total self-supplied withdrawals plus deliveries, in Mgal 
+#  Thermoelectric Power (Once-through cooling) consumptive use, fresh, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) consumptive use, saline, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) total consumptive use, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) power generated, in gigawatt-hours 
+#  Thermoelectric Power (Once-through cooling) reclaimed wastewater, in Mgal/d 
+#  Thermoelectric Power (Once-through cooling) number of facilities 
+#  Thermoelectric Power (Closed-loop cooling) self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) self-supplied surface-water withdrawals, saline, in Mgal/ 
+#  Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals, surface water, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals, fresh, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals, saline, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals, total, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) deliveries from public supply, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals plus deliveries, in Mgal/ 
+#  Thermoelectric Power (Closed-loop cooling) consumptive use, fresh, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) consumptive use, saline, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) total consumptive use, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) power generated, in gigawatt-hours 
+#  Thermoelectric Power (Closed-loop cooling) reclaimed wastewater, in Mgal/d 
+#  Thermoelectric Power (Closed-loop cooling) number of facilities 
+#  Mining self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Mining self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Mining total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Mining self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Mining self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Mining total self-supplied withdrawals, surface water, in Mgal/d 
+#  Mining total self-supplied withdrawals, fresh, in Mgal/d 
+#  Mining total self-supplied withdrawals, saline, in Mgal/d 
+#  Mining total self-supplied withdrawals, in Mgal/d 
+#  Mining consumptive use, fresh, in Mgal/d 
+#  Mining consumptive use, saline, in Mgal/d 
+#  Mining total consumptive use, in Mgal/d 
+#  Mining reclaimed wastewater, in Mgal/d 
+#  Livestock self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Livestock self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Livestock total self-supplied withdrawals, fresh, in Mgal/d 
+#  Livestock consumptive use, fresh, in Mgal/d 
+#  Livestock (Stock) self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Livestock (Stock) self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Livestock (Stock) total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Livestock (Stock) self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Livestock (Stock) self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Livestock (Stock) total self-supplied withdrawals, surface water, in Mgal/d 
+#  Livestock (Stock) total self-supplied withdrawals, fresh, in Mgal/d 
+#  Livestock (Stock) total self-supplied withdrawals, saline, in Mgal/d 
+#  Livestock (Stock) total self-supplied withdrawals, in Mgal/d 
+#  Livestock (Stock) consumptive use, fresh, in Mgal/d 
+#  Livestock (Stock) consumptive use, saline, in Mgal/d 
+#  Livestock (Stock) total consumptive use, in Mgal/d 
+#  Livestock (Animal Specialties) self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Livestock (Animal Specialties) self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Livestock (Animal Specialties) total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Livestock (Animal Specialties) self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Livestock (Animal Specialties) self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Livestock (Animal Specialties) total self-supplied withdrawals, surface water, in Mgal/d 
+#  Livestock (Animal Specialties) total self-supplied withdrawals, fresh, in Mgal/d 
+#  Livestock (Animal Specialties) total self-supplied withdrawals, saline, in Mgal/d 
+#  Livestock (Animal Specialties) total self-supplied withdrawals, in Mgal/d 
+#  Livestock (Animal Specialties) consumptive use, fresh, in Mgal/d 
+#  Livestock (Animal Specialties) consumptive use, saline, in Mgal/d 
+#  Livestock (Animal Specialties) total consumptive use, in Mgal/d 
+#  Aquaculture self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Aquaculture self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Aquaculture total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Aquaculture self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Aquaculture self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Aquaculture total self-supplied withdrawals, surface water, in Mgal/d 
+#  Aquaculture total self-supplied withdrawals, fresh, in Mgal/d 
+#  Aquaculture total self-supplied withdrawals, saline, in Mgal/d 
+#  Aquaculture total self-supplied withdrawals, in Mgal/d 
+#  Aquaculture consumptive use, fresh, in Mgal/d 
+#  Aquaculture consumptive use, saline, in Mgal/d 
+#  Aquaculture total consumptive use, in Mgal/d 
+#  Irrigation, Total self-supplied groundwater withdrawals, fresh, in Mgal/d 
+#  Irrigation, Total self-supplied groundwater withdrawals, saline, in Mgal/d 
+#  Irrigation, Total total self-supplied withdrawals, groundwater, in Mgal/d 
+#  Irrigation, Total self-supplied surface-water withdrawals, fresh, in Mgal/d 
+#  Irrigation, Total self-supplied surface-water withdrawals, saline, in Mgal/d 
+#  Wastewater Treatment reclaimed wastewater released by public wastewater facilities, in Mgal/d 
+#  Irrigation, Total total self-supplied withdrawals, surface water, in Mgal/d 
+#  Irrigation, Total total self-supplied withdrawals, fresh, in Mgal/d 
+#  Irrigation, Total total self-supplied withdrawals, saline, in Mgal/d 
+#  Irrigation, Total total self-supplied withdrawals, in Mgal/d 
+#  Irrigation, Total consumptive use, fresh, in Mgal/d 
+#  Irrigation, Total consumptive use, saline, in Mgal/d 
+#  Irrigation, Total total consumptive use, in Mgal/d 
+#  Irrigation, Total conveyance loss, in Mgal/d 
+#  Irrigation, Total sprinkler irrigation, in thousand acres 
+#  Irrigation, Total microirrigation, in thousand acres 
+#  Irrigation, Total surface irrigation, in thousand acres 
+#  Irrigation, Total total irrigation, in thousand acres 
+#  Irrigation, Total reclaimed wastewater, in Mgal/d 
+#  Irrigation, Crop self-supplied groundwater withdrawals for crops, fresh, in Mgal/d 
+#  Irrigation, Crop self-supplied surface-water withdrawals for crops, fresh, in Mgal/d 
+#  Irrigation, Crop total self-supplied withdrawals for crops, fresh, in Mgal/d 
+#  Irrigation, Crop consumptive use for crops, fresh, in Mgal/d 
+#  Irrigation, Crop conveyance loss for crops, in Mgal/d 
+#  Irrigation, Crop sprinkler irrigation for crops, in thousand acres 
+#  Irrigation, Crop microirrigation for crops, in thousand acres 
+#  Irrigation, Crop surface irrigation for crops, in thousand acres 
+#  Irrigation, Crop total irrigation for crops, in thousand acres 
+#  Irrigation, Crop reclaimed wastewater for crops, in Mgal/d 
+#  Irrigation, Golf Courses self-supplied groundwater withdrawals for golf courses, fresh, in Mgal/d 
+#  Irrigation, Golf Courses self-supplied surface-water withdrawals for golf courses, fresh, in Mgal/d 
+#  Irrigation, Golf Courses total self-supplied withdrawals for golf courses, fresh, in Mgal/d 
+#  Irrigation, Golf Courses consumptive use for golf courses, fresh, in Mgal/d 
+#  Irrigation, Golf Courses conveyance loss for golf courses, in Mgal/d 
+#  Irrigation, Golf Courses sprinkler irrigation for golf courses, in thousand acres 
+#  Irrigation, Golf Courses microirrigation for golf courses, in thousand acres 
+#  Irrigation, Golf Courses surface irrigation for golf courses, in thousand acres 
+#  Irrigation, Golf Courses total irrigation for golf courses, in thousand acres 
+#  Irrigation, Golf Courses reclaimed wastewater for golf courses, in Mgal/d 
+#  Hydroelectric Power instream water use, in Mgal/d 
+#  Hydroelectric Power offstream surface-water withdrawals, fresh, in Mgal/d 
+#  Hydroelectric Power surface water self-supplied offstream withdrawals, saline, in Mgal/d 
+#  Hydroelectric Power total offstream surface-water withdrawals in Mgal/d 
+#  Hydroelectric Power power generated by instream use, in gigawatt-hours 
+#  Hydroelectric Power power generated by offstream use, in gigawatt-hours 
+#  Hydroelectric Power total power generated, in gigawatt-hours 
+#  Hydroelectric Power number of instream facilities 
+#  Hydroelectric Power number of offstream facilities 
+#  Hydroelectric Power total number of facilities 
+#  Wastewater Treatment returns by public wastewater facilities, in Mgal/d 
+#  Wastewater Treatment number of public wastewater facilities 
+#  Wastewater Treatment reclaimed wastewater released by wastewater facilities, in Mgal/d 
+#
+state_cd	state_name	year	Total Population total population of area, in thousands	Public Supply population served by groundwater, in thousands	Public Supply population served by surface water, in thousands	Public Supply total population served, in thousands	Public Supply self-supplied groundwater withdrawals, fresh, in Mgal/d	Public Supply self-supplied groundwater withdrawals, saline, in Mgal/d	Public Supply total self-supplied withdrawals, groundwater, in Mgal/d	Public Supply self-supplied surface-water withdrawals, fresh, in Mgal/d	Public Supply self-supplied surface-water withdrawals, saline, in Mgal/d	Public Supply total self-supplied withdrawals, surface water, in Mgal/d	Public Supply total self-supplied withdrawals, fresh, in Mgal/d	Public Supply total self-supplied withdrawals, saline, in Mgal/d	Public Supply total self-supplied withdrawals, total, in Mgal/d	Public Supply deliveries to domestic, in Mgal/d	Public Supply deliveries to commercial, in Mgal/d	Public Supply deliveries to industrial, in Mgal/d	Public Supply deliveries to thermoelectric, in Mgal/d	Public Supply total deliveries, in Mgal/d	Public Supply public use and losses, in Mgal/d	Public Supply per capita use, in gallons/person/day	Public Supply reclaimed wastewater, in Mgal/d	Public Supply number of facilities	Domestic self-supplied groundwater withdrawals, fresh, in Mgal/d	Domestic self-supplied groundwater withdrawals, saline, in Mgal/d	Domestic total self-supplied withdrawals, groundwater, in Mgal/d	Domestic self-supplied surface-water withdrawals, fresh, in Mgal/d	Domestic self-supplied surface-water withdrawals, saline, in Mgal/d	Domestic total self-supplied withdrawals, surface water, in Mgal/d	Domestic total self-supplied withdrawals, fresh, in Mgal/d	Domestic self-supplied population, in thousands	Domestic deliveries from public supply, in Mgal/d	Domestic total self-supplied withdrawals, saline, in Mgal/d	Domestic per capita use, public-supplied, in gallons/person/day	Domestic total self-supplied withdrawals, in Mgal/d	Domestic total self-supplied withdrawals plus deliveries, in Mgal/d	Domestic consumptive use, fresh, in Mgal/d	Domestic consumptive use, saline, in Mgal/d	Domestic total consumptive use, in Mgal/d	Domestic per capita use, self-supplied, in gallons/person/day	Commercial self-supplied groundwater withdrawals, fresh, in Mgal/d	Commercial self-supplied groundwater withdrawals, saline, in Mgal/d	Commercial total self-supplied withdrawals, groundwater, in Mgal/d	Commercial self-supplied surface-water withdrawals, fresh, in Mgal/d	Commercial self-supplied surface-water withdrawals, saline, in Mgal/d	Commercial total self-supplied withdrawals, surface water, in Mgal/d	Commercial total self-supplied withdrawals, fresh, in Mgal/d	Commercial total self-supplied withdrawals, saline, in Mgal/d	Commercial total self-supplied withdrawals, in Mgal/d	Commercial deliveries from public supply, in Mgal/d	Commercial total self-supplied withdrawals plus deliveries, in Mgal/d	Commercial consumptive use, fresh, in Mgal/d	Commercial consumptive use, saline, in Mgal/d	Commercial total consumptive use, in Mgal/d	Commercial reclaimed wastewater, in Mgal/d	Industrial self-supplied groundwater withdrawals, fresh, in Mgal/d	Industrial self-supplied groundwater withdrawals, saline, in Mgal/d	Industrial total self-supplied withdrawals, groundwater, in Mgal/d	Industrial self-supplied surface-water withdrawals, fresh, in Mgal/d	Industrial self-supplied surface-water withdrawals, saline, in Mgal/d	Industrial total self-supplied withdrawals, surface water, in Mgal/d	Industrial total self-supplied withdrawals, fresh, in Mgal/d	Industrial total self-supplied withdrawals, saline, in Mgal/d	Industrial total self-supplied withdrawals, in Mgal/d	Industrial deliveries from public supply, in Mgal/d	Industrial total self-supplied withdrawals plus deliveries, in Mgal/d	Industrial consumptive use, fresh, in Mgal/d	Industrial consumptive use, saline, in Mgal/d	Industrial total consumptive use, in Mgal/d	Industrial reclaimed wastewater, in Mgal/d	Industrial number of facilities	Total Thermoelectric Power self-supplied groundwater withdrawals, fresh, in Mgal/d	Total Thermoelectric Power self-supplied groundwater withdrawals, saline, in Mgal/d	Total Thermoelectric Power total self-supplied withdrawals, groundwater, in Mgal/d	Total Thermoelectric Power self-supplied surface-water withdrawals, fresh, in Mgal/d	Total Thermoelectric Power self-supplied surface-water withdrawals, saline, in Mgal/d	Total Thermoelectric Power total self-supplied withdrawals, surface water, in Mgal/d	Total Thermoelectric Power total self-supplied withdrawals, fresh, in Mgal/d	Total Thermoelectric Power total self-supplied withdrawals, saline, in Mgal/d	Total Thermoelectric Power total self-supplied withdrawals, total, in Mgal/d	Total Thermoelectric Power total self-supplied withdrawals plus deliveries, in Mgal/d	Total Thermoelectric Power consumptive use, fresh, in Mgal/d	Total Thermoelectric Power consumptive use, saline, in Mgal/d	Total Thermoelectric Power total consumptive use, in Mgal/d	Total Thermoelectric Power power generated, in gigawatt-hours	Total Thermoelectric Power reclaimed wastewater, in Mgal/d	Total Thermoelectric Power number of facilities	Fossil-fuel Thermoelectric Power self-supplied groundwater withdrawals, fresh, in Mgal/d	Fossil-fuel Thermoelectric Power self-supplied groundwater withdrawals, saline, in Mgal/d	Fossil-fuel Thermoelectric Power total self-supplied withdrawals, groundwater, in Mgal/d	Fossil-fuel Thermoelectric Power self-supplied surface-water withdrawals, fresh, in Mgal/d	Fossil-fuel Thermoelectric Power self-supplied surface-water withdrawals, saline, in Mgal/d	Fossil-fuel Thermoelectric Power total self-supplied withdrawals, surface water, in Mgal/d	Fossil-fuel Thermoelectric Power total self-supplied withdrawals, fresh, in Mgal/d	Fossil-fuel Thermoelectric Power total self-supplied withdrawals, saline, in Mgal/d	Fossil-fuel Thermoelectric Power total self-supplied withdrawals, in Mgal/d	Fossil-fuel Thermoelectric Power deliveries from public supply, in Mgal/d	Fossil-fuel Thermoelectric Power total self-supplied withdrawals plus deliveries, in Mgal/d	Fossil-fuel Thermoelectric Power consumptive use, fresh, in Mgal/d	Fossil-fuel Thermoelectric Power consumptive use, saline, in Mgal/d	Fossil-fuel Thermoelectric Power total consumptive use, in Mgal/d	Fossil-fuel Thermoelectric Power power generation, in gigawatt-hours	Fossil-fuel Thermoelectric Power reclaimed wastewater, in Mgal/d	Fossil-fuel Thermoelectric Power number of facilities	Geothermal Thermoelectric Power self-supplied groundwater withdrawals, fresh, in Mgal/d	Geothermal Thermoelectric Power self-supplied groundwater withdrawals, saline, in Mgal/d	Geothermal Thermoelectric Power total self-supplied withdrawals, groundwater, in Mgal/d	Geothermal Thermoelectric Power self-supplied surface-water withdrawals, fresh, in Mgal/d	Geothermal Thermoelectric Power self-supplied surface-water withdrawals, saline, in Mgal/d	Geothermal Thermoelectric Power total self-supplied withdrawals, surface water, in Mgal/d	Geothermal Thermoelectric Power total self-supplied withdrawals, fresh, in Mgal/d	Geothermal Thermoelectric Power total self-supplied withdrawals, saline, in Mgal/d	Geothermal Thermoelectric Power total self-supplied withdrawals, in Mgal/d	Geothermal Thermoelectric Power deliveries from public supply, in Mgal/d	Geothermal Thermoelectric Power total self-supplied withdrawals plus deliveries, in Mgal/d	Geothermal Thermoelectric Power consumptive use, fresh, in Mgal/d	Geothermal Thermoelectric Power consumptive use, saline, in Mgal/d	Geothermal Thermoelectric Power total consumptive use, in Mgal/d	Geothermal Thermoelectric Power power generation, in gigawatt-hours	Geothermal Thermoelectric Power reclaimed wastewater, in Mgal/d	Geothermal Thermoelectric Power number of facilities	Nuclear Thermoelectric Power self-supplied groundwater withdrawals, fresh, in Mgal/d	Nuclear Thermoelectric Power self-supplied groundwater withdrawals, saline, in Mgal/d	Nuclear Thermoelectric Power total self-supplied withdrawals, groundwater, in Mgal/d	Nuclear Thermoelectric Power self-supplied surface-water withdrawals, fresh, in Mgal/d	Nuclear Thermoelectric Power self-supplied surface-water withdrawals, saline, in Mgal/d	Nuclear Thermoelectric Power total self-supplied withdrawals, surface water, in Mgal/d	Nuclear Thermoelectric Power total self-supplied withdrawals, fresh, in Mgal/d	Nuclear Thermoelectric Power total self-supplied withdrawals, saline, in Mgal/d	Nuclear Thermoelectric Power total self-supplied withdrawals, in Mgal/d	Nuclear Thermoelectric Power deliveries from public supply, in Mgal/d	Nuclear Thermoelectric Power total self-supplied withdrawals plus deliveries, in Mgal/d	Nuclear Thermoelectric Power consumptive use, fresh, in Mgal/d	Nuclear Thermoelectric Power consumptive use, saline, in Mgal/d	Nuclear Thermoelectric Power total consumptive use, in Mgal/d	Nuclear Thermoelectric Power power generation, in gigawatt-hours	Nuclear Thermoelectric Power reclaimed wastewater, in Mgal/d	Nuclear Thermoelectric Power number of facilities	Thermoelectric Power (Once-through cooling) self-supplied groundwater withdrawals, fresh, in Mgal/d	Thermoelectric Power (Once-through cooling) self-supplied groundwater withdrawals, saline, in Mgal/d	Thermoelectric Power (Once-through cooling) total self-supplied withdrawals, groundwater, in Mgal/d	Thermoelectric Power (Once-through cooling) self-supplied surface-water withdrawals, fresh, in Mgal/	Thermoelectric Power (Once-through cooling) self-supplied surface-water withdrawals, saline, in Mgal	Thermoelectric Power (Once-through cooling) total self-supplied withdrawals, surface water, in Mgal/	Thermoelectric Power (Once-through cooling) total self-supplied withdrawals, fresh, in Mgal/d	Thermoelectric Power (Once-through cooling) total self-supplied withdrawals, saline, in Mgal/d	Thermoelectric Power (Once-through cooling) total self-supplied withdrawals, total, in Mgal/d	Thermoelectric Power (Once-through cooling) deliveries from public supply, in Mgal/d	Thermoelectric Power (Once-through cooling) total self-supplied withdrawals plus deliveries, in Mgal	Thermoelectric Power (Once-through cooling) consumptive use, fresh, in Mgal/d	Thermoelectric Power (Once-through cooling) consumptive use, saline, in Mgal/d	Thermoelectric Power (Once-through cooling) total consumptive use, in Mgal/d	Thermoelectric Power (Once-through cooling) power generated, in gigawatt-hours	Thermoelectric Power (Once-through cooling) reclaimed wastewater, in Mgal/d	Thermoelectric Power (Once-through cooling) number of facilities	Thermoelectric Power (Closed-loop cooling) self-supplied groundwater withdrawals, fresh, in Mgal/d	Thermoelectric Power (Closed-loop cooling) self-supplied groundwater withdrawals, saline, in Mgal/d	Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals, groundwater, in Mgal/d	Thermoelectric Power (Closed-loop cooling) self-supplied surface-water withdrawals, fresh, in Mgal/d	Thermoelectric Power (Closed-loop cooling) self-supplied surface-water withdrawals, saline, in Mgal/	Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals, surface water, in Mgal/d	Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals, fresh, in Mgal/d	Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals, saline, in Mgal/d	Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals, total, in Mgal/d	Thermoelectric Power (Closed-loop cooling) deliveries from public supply, in Mgal/d	Thermoelectric Power (Closed-loop cooling) total self-supplied withdrawals plus deliveries, in Mgal/	Thermoelectric Power (Closed-loop cooling) consumptive use, fresh, in Mgal/d	Thermoelectric Power (Closed-loop cooling) consumptive use, saline, in Mgal/d	Thermoelectric Power (Closed-loop cooling) total consumptive use, in Mgal/d	Thermoelectric Power (Closed-loop cooling) power generated, in gigawatt-hours	Thermoelectric Power (Closed-loop cooling) reclaimed wastewater, in Mgal/d	Thermoelectric Power (Closed-loop cooling) number of facilities	Mining self-supplied groundwater withdrawals, fresh, in Mgal/d	Mining self-supplied groundwater withdrawals, saline, in Mgal/d	Mining total self-supplied withdrawals, groundwater, in Mgal/d	Mining self-supplied surface-water withdrawals, fresh, in Mgal/d	Mining self-supplied surface-water withdrawals, saline, in Mgal/d	Mining total self-supplied withdrawals, surface water, in Mgal/d	Mining total self-supplied withdrawals, fresh, in Mgal/d	Mining total self-supplied withdrawals, saline, in Mgal/d	Mining total self-supplied withdrawals, in Mgal/d	Mining consumptive use, fresh, in Mgal/d	Mining consumptive use, saline, in Mgal/d	Mining total consumptive use, in Mgal/d	Mining reclaimed wastewater, in Mgal/d	Livestock self-supplied groundwater withdrawals, fresh, in Mgal/d	Livestock self-supplied surface-water withdrawals, fresh, in Mgal/d	Livestock total self-supplied withdrawals, fresh, in Mgal/d	Livestock consumptive use, fresh, in Mgal/d	Livestock (Stock) self-supplied groundwater withdrawals, fresh, in Mgal/d	Livestock (Stock) self-supplied groundwater withdrawals, saline, in Mgal/d	Livestock (Stock) total self-supplied withdrawals, groundwater, in Mgal/d	Livestock (Stock) self-supplied surface-water withdrawals, fresh, in Mgal/d	Livestock (Stock) self-supplied surface-water withdrawals, saline, in Mgal/d	Livestock (Stock) total self-supplied withdrawals, surface water, in Mgal/d	Livestock (Stock) total self-supplied withdrawals, fresh, in Mgal/d	Livestock (Stock) total self-supplied withdrawals, saline, in Mgal/d	Livestock (Stock) total self-supplied withdrawals, in Mgal/d	Livestock (Stock) consumptive use, fresh, in Mgal/d	Livestock (Stock) consumptive use, saline, in Mgal/d	Livestock (Stock) total consumptive use, in Mgal/d	Livestock (Animal Specialties) self-supplied groundwater withdrawals, fresh, in Mgal/d	Livestock (Animal Specialties) self-supplied groundwater withdrawals, saline, in Mgal/d	Livestock (Animal Specialties) total self-supplied withdrawals, groundwater, in Mgal/d	Livestock (Animal Specialties) self-supplied surface-water withdrawals, fresh, in Mgal/d	Livestock (Animal Specialties) self-supplied surface-water withdrawals, saline, in Mgal/d	Livestock (Animal Specialties) total self-supplied withdrawals, surface water, in Mgal/d	Livestock (Animal Specialties) total self-supplied withdrawals, fresh, in Mgal/d	Livestock (Animal Specialties) total self-supplied withdrawals, saline, in Mgal/d	Livestock (Animal Specialties) total self-supplied withdrawals, in Mgal/d	Livestock (Animal Specialties) consumptive use, fresh, in Mgal/d	Livestock (Animal Specialties) consumptive use, saline, in Mgal/d	Livestock (Animal Specialties) total consumptive use, in Mgal/d	Aquaculture self-supplied groundwater withdrawals, fresh, in Mgal/d	Aquaculture self-supplied groundwater withdrawals, saline, in Mgal/d	Aquaculture total self-supplied withdrawals, groundwater, in Mgal/d	Aquaculture self-supplied surface-water withdrawals, fresh, in Mgal/d	Aquaculture self-supplied surface-water withdrawals, saline, in Mgal/d	Aquaculture total self-supplied withdrawals, surface water, in Mgal/d	Aquaculture total self-supplied withdrawals, fresh, in Mgal/d	Aquaculture total self-supplied withdrawals, saline, in Mgal/d	Aquaculture total self-supplied withdrawals, in Mgal/d	Aquaculture consumptive use, fresh, in Mgal/d	Aquaculture consumptive use, saline, in Mgal/d	Aquaculture total consumptive use, in Mgal/d	Irrigation, Total self-supplied groundwater withdrawals, fresh, in Mgal/d	Irrigation, Total self-supplied groundwater withdrawals, saline, in Mgal/d	Irrigation, Total total self-supplied withdrawals, groundwater, in Mgal/d	Irrigation, Total self-supplied surface-water withdrawals, fresh, in Mgal/d	Irrigation, Total self-supplied surface-water withdrawals, saline, in Mgal/d	Wastewater Treatment reclaimed wastewater released by public wastewater facilities, in Mgal/d	Irrigation, Total total self-supplied withdrawals, surface water, in Mgal/d	Irrigation, Total total self-supplied withdrawals, fresh, in Mgal/d	Irrigation, Total total self-supplied withdrawals, saline, in Mgal/d	Irrigation, Total total self-supplied withdrawals, in Mgal/d	Irrigation, Total consumptive use, fresh, in Mgal/d	Irrigation, Total consumptive use, saline, in Mgal/d	Irrigation, Total total consumptive use, in Mgal/d	Irrigation, Total conveyance loss, in Mgal/d	Irrigation, Total sprinkler irrigation, in thousand acres	Irrigation, Total microirrigation, in thousand acres	Irrigation, Total surface irrigation, in thousand acres	Irrigation, Total total irrigation, in thousand acres	Irrigation, Total reclaimed wastewater, in Mgal/d	Irrigation, Crop self-supplied groundwater withdrawals for crops, fresh, in Mgal/d	Irrigation, Crop self-supplied surface-water withdrawals for crops, fresh, in Mgal/d	Irrigation, Crop total self-supplied withdrawals for crops, fresh, in Mgal/d	Irrigation, Crop consumptive use for crops, fresh, in Mgal/d	Irrigation, Crop conveyance loss for crops, in Mgal/d	Irrigation, Crop sprinkler irrigation for crops, in thousand acres	Irrigation, Crop microirrigation for crops, in thousand acres	Irrigation, Crop surface irrigation for crops, in thousand acres	Irrigation, Crop total irrigation for crops, in thousand acres	Irrigation, Crop reclaimed wastewater for crops, in Mgal/d	Irrigation, Golf Courses self-supplied groundwater withdrawals for golf courses, fresh, in Mgal/d	Irrigation, Golf Courses self-supplied surface-water withdrawals for golf courses, fresh, in Mgal/d	Irrigation, Golf Courses total self-supplied withdrawals for golf courses, fresh, in Mgal/d	Irrigation, Golf Courses consumptive use for golf courses, fresh, in Mgal/d	Irrigation, Golf Courses conveyance loss for golf courses, in Mgal/d	Irrigation, Golf Courses sprinkler irrigation for golf courses, in thousand acres	Irrigation, Golf Courses microirrigation for golf courses, in thousand acres	Irrigation, Golf Courses surface irrigation for golf courses, in thousand acres	Irrigation, Golf Courses total irrigation for golf courses, in thousand acres	Irrigation, Golf Courses reclaimed wastewater for golf courses, in Mgal/d	Hydroelectric Power instream water use, in Mgal/d	Hydroelectric Power offstream surface-water withdrawals, fresh, in Mgal/d	Hydroelectric Power surface water self-supplied offstream withdrawals, saline, in Mgal/d	Hydroelectric Power total offstream surface-water withdrawals in Mgal/d	Hydroelectric Power power generated by instream use, in gigawatt-hours	Hydroelectric Power power generated by offstream use, in gigawatt-hours	Hydroelectric Power total power generated, in gigawatt-hours	Hydroelectric Power number of instream facilities	Hydroelectric Power number of offstream facilities	Hydroelectric Power total number of facilities	Wastewater Treatment returns by public wastewater facilities, in Mgal/d	Wastewater Treatment number of public wastewater facilities	Wastewater Treatment reclaimed wastewater released by wastewater facilities, in Mgal/d
+2s	40s	4s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s	16s
+06	California	1985	26354.360	16343.100	8002.760	24345.860	3734.99	-	-	1573.93	-	-	5308.92	-	-	3238.47	1221.04	493.54	30.96	4984.01	-	-	-	-	125.26	-	-	15.14	-	-	140.40	2008.500	3238.470	-	133	-	3378.87	878.50	-	-	70	47.24	-	-	5.69	-	-	52.93	-	-	1221.04	-	330.87	-	-	-	325.84	7.86	333.70	105.24	254.46	359.70	431.08	262.32	693.40	493.54	1186.94	301.11	11.05	312.16	2.90	-	68.25	-	-	-	-	-	-	-	-	-	66.70	5.75	72.45	98913.13	-	-	8.71	-	-	411.97	8404.31	8816.28	420.68	-	-	16.83	-	19.09	5.75	24.84	66891.85	-	-	59.52	0.00	59.52	-	-	-	-	-	-	0.00	-	42.02	0.00	42.02	12320.20	-	-	0.02	-	-	0.16	3337.42	3337.58	0.18	-	-	14.13	-	5.59	0.00	5.59	19701.08	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	107.54	276.49	384.03	57.58	24.57	82.15	165.12	301.06	466.18	44.16	78.72	122.88	-	-	-	-	-	40.68	-	-	158.73	-	-	199.41	-	-	154.80	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	10379.60	-	-	20265.02	-	-	-	30644.62	-	-	19314.94	-	-	929.04	2004.81	-	7584.16	-	234.64	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	83796.93	-	-	-	32005.19	-	-	-	-	-	2770.99	892	-
+06	California	1990	29760.020	13588.960	11887.810	25476.770	3263.88	-	-	2563.97	-	-	5827.85	-	-	3740.30	790.70	491.99	12.95	5035.94	-	-	-	3717	212.02	-	-	105.81	-	-	317.83	4283.250	3740.300	-	147	-	4058.13	1032.85	-	-	74	56.80	-	-	177.03	-	-	233.83	-	-	790.70	-	7.10	-	-	-	125.47	0.00	125.47	3.38	25.38	28.76	128.85	25.38	154.23	491.99	646.22	101.09	0.31	101.40	0.84	20248	4.62	-	-	-	-	-	-	-	-	-	6.45	37.66	44.11	88520.76	-	61	4.48	-	-	240.78	5905.00	6145.78	245.26	-	-	11.19	-	6.17	5.88	12.05	47376.42	-	35	0.00	41.11	41.11	-	-	-	-	-	-	0.00	-	0.00	31.20	31.20	8430.45	-	22	0.14	-	-	0.14	5501.78	5501.92	0.28	-	-	1.76	-	0.28	0.58	0.86	32713.89	-	4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	13.18	309.74	322.92	7.03	0.38	7.41	20.21	310.12	330.33	4.40	224.96	229.36	-	-	-	-	-	105.25	-	-	132.41	-	-	237.66	-	-	223.35	-	-	99.80	-	-	73.50	-	-	173.30	-	-	31.45	-	-	-	-	-	-	-	-	-	-	-	-	-	-	10692.25	-	-	17183.72	-	-	-	27875.97	-	-	19470.31	-	-	1560.93	2228.00	-	7252.92	-	132.08	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	75013.19	-	-	-	23905.53	-	-	225	-	-	2991.79	1055	-
+06	California	1995	32062.750	13012.920	17453.370	30466.290	2736.09	2.00	2738.09	2884.05	0.00	2884.05	5620.14	2.00	5622.14	3711.23	994.12	282.52	5.26	4993.13	629.01	185	55.52	1107	107.77	0.00	107.77	11.97	0.00	11.97	119.74	1596.460	3711.230	0.00	122	119.74	3830.97	1060.91	0.00	1060.91	75	76.75	0.00	76.75	308.58	0.00	308.58	385.33	0.00	385.33	994.12	1379.45	258.61	0.00	258.61	18.61	521.80	10.09	531.89	16.39	26.31	42.70	538.19	36.40	574.59	282.52	857.11	239.05	9.10	248.15	3.57	20119	3.56	21.55	25.11	201.91	9427.71	9629.62	205.47	9449.26	9654.73	9659.99	9.67	19.46	29.13	76008.02	0.26	59	3.49	0.00	3.49	190.17	4732.83	4923.00	193.66	4732.83	4926.49	5.26	4931.75	9.38	2.81	12.19	40098.29	0.26	34	0.00	21.55	21.55	0.00	0.00	0.00	0.00	21.55	21.55	0.00	21.55	0.00	15.35	15.35	4863.53	0.00	21	0.07	0.00	0.07	11.74	4694.88	4706.62	11.81	4694.88	4706.69	0.00	4706.69	0.29	1.30	1.59	31046.20	0.00	4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	14.30	151.17	165.47	61.66	0.00	61.66	75.96	151.17	227.13	75.03	33.76	108.79	0.01	-	-	-	-	131.50	0.00	131.50	167.39	0.00	167.39	298.89	0.00	298.89	298.89	0.00	298.89	102.79	0.00	102.79	57.56	0.00	57.56	160.35	0.00	160.35	31.74	0.00	31.74	-	-	-	-	-	-	-	-	-	-	-	-	10789.92	0.00	10789.92	18103.84	0.00	-	18103.84	28893.76	0.00	28893.76	23521.73	0.00	23521.73	1669.15	1799.41	631.05	7053.64	9484.10	256.03	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	76889.93	68987.84	0.00	68987.84	12919.93	34213.38	47133.31	57	172	229	3253.57	1049	-
+06	California	2000	33871.660	12458.760	17600.430	30059.190	2797.63	-	-	3323.58	-	-	6121.21	-	-	-	-	-	-	-	-	-	-	-	257.09	-	-	28.56	-	-	285.65	3812.470	-	-	-	-	-	-	-	-	75	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	182.65	0.00	182.65	5.65	13.61	19.26	188.30	13.61	201.91	-	-	-	-	-	-	-	3.23	0.00	3.23	349.21	12591.57	12940.78	352.44	12591.57	12944.01	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0.00	0.00	0.00	343.80	12591.57	12935.37	343.80	12591.57	12935.37	-	-	-	-	-	-	-	-	3.23	0.00	3.23	5.41	0.00	5.41	8.64	0.00	8.64	-	-	-	-	-	-	-	-	20.97	152.40	173.37	2.71	0.46	3.17	23.68	152.86	176.54	-	-	-	-	181.74	227.11	408.85	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	157.87	0.00	157.87	379.62	-	-	537.49	-	-	-	-	-	11641.85	-	11641.85	18855.40	-	-	18855.40	30497.25	-	30497.25	-	-	-	-	1663.98	3005.90	5467.60	10137.48	-	11547.70	18799.60	30347.30	-	-	1565.40	3005.90	5467.60	10038.90	-	94.15	55.80	149.95	-	-	98.58	0.00	0.00	98.58	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+06	California	2005	36132.147	6300.992	27123.939	33424.931	1276.62	0.00	1276.62	5710.46	0.00	5710.46	6987.08	0.00	6987.08	3983.75	-	-	-	-	-	209	-	-	428.59	-	-	57.16	-	-	485.75	2707.216	3983.750	-	119	-	4469.50	-	-	-	179	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	62.34	0.00	62.34	9.90	23.43	33.33	72.24	23.43	95.67	-	-	-	-	-	-	-	9.84	0.00	9.84	39.74	12587.58	12627.32	49.58	12587.58	12637.16	-	-	-	-	56156.75	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0.00	0.00	0.00	0.00	12587.58	12587.58	0.00	12587.58	12587.58	-	-	-	-	-	52160.56	-	-	9.84	0.00	9.84	39.74	0.00	39.74	49.58	0.00	49.58	-	-	-	-	-	3996.19	-	-	34.49	254.65	289.14	18.64	0.29	18.93	53.13	254.94	308.07	-	-	-	-	88.10	108.52	196.62	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	186.41	-	-	459.20	-	-	645.61	-	-	-	-	-	8616.07	-	-	15747.70	-	-	-	24363.77	-	-	-	-	-	-	1460.65	2646.00	4943.66	9050.31	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+06	California	2010	37253.956	14577.672	20200.237	34777.909	2742.20	84.29	2826.49	3472.23	0.00	3472.23	6214.43	84.29	6298.72	3865.64	-	257.88	-	-	-	181	355.79	-	142.47	-	-	29.45	-	-	171.92	2476.047	3865.640	-	111	-	4037.56	-	-	-	69	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	399.27	0.00	399.27	1.13	0.00	1.13	400.40	0.00	400.40	257.88	658.28	-	-	-	82.54	980	33.14	48.45	81.59	32.22	6487.29	6519.51	65.36	6535.74	6601.10	-	-	-	-	85431.59	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0.73	0.00	0.73	0.00	6486.25	6486.25	0.73	6486.25	6486.98	-	-	-	-	-	40142.37	-	-	32.41	48.45	80.86	32.22	1.04	33.26	64.63	49.49	114.12	-	-	-	-	-	45289.22	-	-	24.12	236.00	260.12	12.25	0.05	12.30	36.37	236.05	272.42	-	-	-	-	84.41	103.38	187.79	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	171.22	-	-	802.12	-	-	973.34	-	-	-	-	-	8685.98	-	8685.98	14370.51	-	-	14370.51	23056.49	-	23056.49	-	-	-	-	1792.50	2892.85	5665.98	10351.33	-	8553.37	14290.06	22843.43	20159.79	-	1701.25	2892.85	5665.98	10260.08	-	132.61	80.45	213.06	-	-	91.25	0.00	0.00	91.25	-	-	-	-	-	-	-	-	-	-	-	-	-	-
